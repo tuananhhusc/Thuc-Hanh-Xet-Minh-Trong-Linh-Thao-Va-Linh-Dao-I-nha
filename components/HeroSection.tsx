@@ -26,7 +26,7 @@ export default function HeroSection({ title, readingTime }: HeroSectionProps) {
       <div className="relative z-10 max-w-4xl mx-auto text-center">
         {/* Subtitle label */}
         <p className="font-[family-name:var(--font-sans)] text-xs md:text-sm tracking-[0.25em] uppercase mb-6 md:mb-8" style={{ color: '#B8860B' }}>
-          — Báo Cáo Nghiên Cứu Chuyên Sâu —
+          - Báo Cáo Nghiên Cứu Chuyên Sâu - 
         </p>
 
         {/* Main title */}

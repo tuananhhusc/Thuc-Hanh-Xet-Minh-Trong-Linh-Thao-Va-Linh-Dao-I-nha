@@ -57,7 +57,7 @@ export default function ShareQuoteTooltip({ children }: { children: React.ReactN
 
   const handleCopy = () => {
     if (selection) {
-      navigator.clipboard.writeText(`"${selection.text}" — Trích từ Thực Hành Xét Mình Trong Linh Thao`);
+      navigator.clipboard.writeText(`"${selection.text}" - Trích từ Thực Hành Xét Mình Trong Linh Thao`);
       setSelection(null);
       alert("Đã sao chép trích dẫn!");
     }

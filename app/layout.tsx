@@ -23,7 +23,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Thực Hành Xét Mình Trong Linh Thao Và Linh Đạo I-nhã",
   description:
-    "Báo cáo nghiên cứu chuyên sâu về phương pháp Xét Mình (Examen) trong Linh Thao của Thánh Inhaxiô Loyola — từ nền tảng thần học, cấu trúc phương pháp luận đến ứng dụng trong đời sống hiện đại.",
+    "Báo cáo nghiên cứu chuyên sâu về phương pháp Xét Mình (Examen) trong Linh Thao của Thánh Inhaxiô Loyola - từ nền tảng thần học, cấu trúc phương pháp luận đến ứng dụng trong đời sống hiện đại.",
   keywords: [
     "Linh Thao",
     "Linh đạo I-nhã",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Thực Hành Xét Mình Trong Linh Thao Và Linh Đạo I-nhã",
     description:
-      "Báo cáo nghiên cứu chuyên sâu về phương pháp Xét Mình (Examen) trong Linh Thao của Thánh Inhaxiô Loyola — từ nền tảng thần học, cấu trúc phương pháp luận đến ứng dụng trong đời sống hiện đại.",
+      "Báo cáo nghiên cứu chuyên sâu về phương pháp Xét Mình (Examen) trong Linh Thao của Thánh Inhaxiô Loyola - từ nền tảng thần học, cấu trúc phương pháp luận đến ứng dụng trong đời sống hiện đại.",
     url: "https://linh-thao-examen.vercel.app",
     siteName: "Linh Đạo I-nhã - Thực Hành Xét Mình",
     locale: "vi_VN",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Thực Hành Xét Mình Trong Linh Thao Và Linh Đạo I-nhã",
     description:
-      "Báo cáo nghiên cứu chuyên sâu về phương pháp Xét Mình (Examen) trong Linh Thao của Thánh Inhaxiô Loyola — từ nền tảng thần học, cấu trúc phương pháp luận đến ứng dụng trong đời sống hiện đại.",
+      "Báo cáo nghiên cứu chuyên sâu về phương pháp Xét Mình (Examen) trong Linh Thao của Thánh Inhaxiô Loyola - từ nền tảng thần học, cấu trúc phương pháp luận đến ứng dụng trong đời sống hiện đại.",
   },
   robots: {
     index: true,
